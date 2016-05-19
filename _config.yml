@@ -1,6 +1,6 @@
 name: Party Safari
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.31074
 typography_spectrum: 0.61766
 title: Kids Parties
 cta:
@@ -22,8 +22,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.5
+  brandStrength: 0.75
   lightness: 0.25
-  saturation: 0.1875
-  rhythmicContrast: 0.25
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
