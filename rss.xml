@@ -4,7 +4,7 @@
         <description><![CDATA[Kids Parties]]></description>
         <link>https://thegrid.ai/party-safari/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 15:04:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 15:07:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/party-safari/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Testimonies]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/party-safari/testimonies/index.html</link>
             <guid isPermaLink="false">9a9f1bb3-4b1e-4afe-a449-0b2c7a1ccaa5</guid>
             <pubDate>Thu, 19 May 2016 15:02:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p> EMAIL: info@partysafari.com.au</p>]]></description>
+            <link>https://thegrid.ai/party-safari/email-infopartysafaricomau/index.html</link>
+            <guid isPermaLink="false">784b7406-fe92-466f-98c6-7f64f544fdd8</guid>
+            <pubDate>Thu, 19 May 2016 15:07:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/party-safari/96730290-8df0-4616-9ed6-329c3aabaf83/index.html</link>
             <guid isPermaLink="false">96730290-8df0-4616-9ed6-329c3aabaf83</guid>
             <pubDate>Thu, 19 May 2016 14:23:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>3 INGREDIENTS TALK TO US ABOUT THE EQUIPMENT YOU NEED, SUCH AS A PA, SMOKE MACHINE, LIGHTS, BOUNCY CASTLE</p>]]></description>
-            <link>https://thegrid.ai/party-safari/3-ingredients-talk-to-us-about-the-equipment-you-need-such/index.html</link>
-            <guid isPermaLink="false">443ab7d3-a9ad-430d-a26c-c5d03eae07f8</guid>
-            <pubDate>Thu, 19 May 2016 13:59:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
