@@ -4,7 +4,7 @@
         <description><![CDATA[Kids Parties]]></description>
         <link>https://thegrid.ai/party-safari/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 17:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 17:52:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/party-safari/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Testimonies]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/party-safari/testimonies/index.html</link>
             <guid isPermaLink="false">9a9f1bb3-4b1e-4afe-a449-0b2c7a1ccaa5</guid>
             <pubDate>Thu, 19 May 2016 15:02:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://web.facebook.com/video/embed/async/dialog/?url=https%3A%2F%2Fweb.facebook.com%2FPartySafariProductions%2Fvideos%2F758311744275354%2F</p>]]></description>
+            <link>https://thegrid.ai/party-safari/httpswebfacebookcomvideoembedasyncdialogurlhttps/index.html</link>
+            <guid isPermaLink="false">312ad14f-56ad-4af0-b7d1-076c2724105c</guid>
+            <pubDate>Thu, 19 May 2016 17:52:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/party-safari/phone-0410-845-544/index.html</link>
             <guid isPermaLink="false">76ef7c42-a097-4e77-ab6f-a720df5e8f17</guid>
             <pubDate>Thu, 19 May 2016 15:09:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p> EMAIL: info@partysafari.com.au</p>]]></description>
-            <link>https://thegrid.ai/party-safari/email-infopartysafaricomau/index.html</link>
-            <guid isPermaLink="false">784b7406-fe92-466f-98c6-7f64f544fdd8</guid>
-            <pubDate>Thu, 19 May 2016 15:07:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
