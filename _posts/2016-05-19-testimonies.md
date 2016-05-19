@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Testimonies '
-datePublished: '2016-05-19T13:53:29.563Z'
-dateModified: '2016-05-19T13:53:28.466Z'
+description: Testimonies
+datePublished: '2016-05-19T13:55:18.928Z'
+dateModified: '2016-05-19T13:55:17.047Z'
 title: ''
 author: []
 authors: []
@@ -17,6 +17,6 @@ url: testimonies/index.html
 _type: Article
 
 ---
-Testimonies 
+Testimonies
 
-Simeon has an amazing ability to bring people together and help them connect and have fun and get totally absorbed in the experience he has created. He did a tremendous Spy party for my son Sebastian and wasmeticulous with details creating a space that followed the theme which hadbeen decided. The children were really treated to an unique experiencewhich involved dressing up, playing games, exploring and adventuring. Itwas an experience that was truly memorable.I would highly recommend Simeon if you are looking for a fabulous host who will facilitate connection between people. Fiona Grant Sebastians mum
+Simeon has a knack for relating to everyone. As the games facilitator at my son Thomas's birthday party he gently encouraged the children to participate in game playing and activities he had planned. He made it funand exciting and spontaneous. When you book a party with Simeon you cantrust he will take care of even the minutest of details and ensureeveryone is included and made to feel important. Simeon has a lot ofenergy and a beautiful nature and really knows how to bring an experienceyou will never forget. Mum Thomas's mum
