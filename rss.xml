@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Kids Parties]]></title>
+        <description><![CDATA[Kids Parties]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 19 May 2016 13:52:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/003dcdd6-d8e0-4545-b491-69845332c8b0.jpg">]]></description>
+            <link>undefinedhere-at-partysafari-we-cater-for-the-5-12-year-old-bracket/index.html</link>
+            <guid isPermaLink="false">65bd3f6d-8e03-4aa9-9536-08bc85ff49d9</guid>
+            <pubDate>Thu, 19 May 2016 13:52:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
