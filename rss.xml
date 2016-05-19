@@ -4,7 +4,7 @@
         <description><![CDATA[Kids Parties]]></description>
         <link>https://thegrid.ai/party-safari/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 18:06:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 18:08:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/party-safari/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Testimonies]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/party-safari/testimonies/index.html</link>
             <guid isPermaLink="false">9a9f1bb3-4b1e-4afe-a449-0b2c7a1ccaa5</guid>
             <pubDate>Thu, 19 May 2016 15:02:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6ac6e1c-7173-46c3-a46e-ab5bd9fb38f0.jpg">]]></description>
+            <link>https://thegrid.ai/party-safari/c58c9b5e-ba14-4614-918b-cfdfe3d3af2a/index.html</link>
+            <guid isPermaLink="false">c58c9b5e-ba14-4614-918b-cfdfe3d3af2a</guid>
+            <pubDate>Thu, 19 May 2016 18:08:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/party-safari/testimonies/index.html</link>
             <guid isPermaLink="false">ebc2ef1a-17da-46da-ad93-d03839c72547</guid>
             <pubDate>Thu, 19 May 2016 16:43:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>PHONE: 0410 845 544</p>]]></description>
-            <link>https://thegrid.ai/party-safari/phone-0410-845-544/index.html</link>
-            <guid isPermaLink="false">76ef7c42-a097-4e77-ab6f-a720df5e8f17</guid>
-            <pubDate>Thu, 19 May 2016 15:09:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
