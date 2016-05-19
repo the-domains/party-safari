@@ -4,7 +4,7 @@
         <description><![CDATA[Kids Parties]]></description>
         <link>https://thegrid.ai/party-safari/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 15:02:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 15:04:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/party-safari/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Testimonies]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/party-safari/testimonies/index.html</link>
             <guid isPermaLink="false">9a9f1bb3-4b1e-4afe-a449-0b2c7a1ccaa5</guid>
             <pubDate>Thu, 19 May 2016 15:02:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3da184d5-5c8b-44c4-b586-bd4dc063adf3.jpg">]]></description>
+            <link>https://thegrid.ai/party-safari/b2dce5b7-f236-4986-903b-a88c67b18e5a/index.html</link>
+            <guid isPermaLink="false">b2dce5b7-f236-4986-903b-a88c67b18e5a</guid>
+            <pubDate>Thu, 19 May 2016 15:04:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Testimonies]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/party-safari/3-ingredients-talk-to-us-about-the-equipment-you-need-such/index.html</link>
             <guid isPermaLink="false">443ab7d3-a9ad-430d-a26c-c5d03eae07f8</guid>
             <pubDate>Thu, 19 May 2016 13:59:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>2 BUDGET WE CAN WORK WITH ANY BUDGET, BIG OR SMALL</p>]]></description>
-            <link>https://thegrid.ai/party-safari/2-budget-we-can-work-with-any-budget-big-or-small/index.html</link>
-            <guid isPermaLink="false">f09e5a01-7a3f-48d1-bf55-718a50e420d1</guid>
-            <pubDate>Thu, 19 May 2016 13:58:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
