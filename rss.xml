@@ -4,7 +4,7 @@
         <description><![CDATA[Kids Parties]]></description>
         <link>https://thegrid.ai/party-safari/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 17:04:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 17:11:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/party-safari/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Testimonies]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/party-safari/testimonies/index.html</link>
             <guid isPermaLink="false">9a9f1bb3-4b1e-4afe-a449-0b2c7a1ccaa5</guid>
             <pubDate>Thu, 19 May 2016 15:02:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c33431f-1e1d-43bf-be62-9fe61b489459.png">]]></description>
+            <link>https://thegrid.ai/party-safari/6c74a0cf-beb1-4fab-917d-21c043906442/index.html</link>
+            <guid isPermaLink="false">6c74a0cf-beb1-4fab-917d-21c043906442</guid>
+            <pubDate>Thu, 19 May 2016 17:11:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/party-safari/4bb53e69-3a91-4b0e-a6e0-a7f2f69ee766/index.html</link>
             <guid isPermaLink="false">4bb53e69-3a91-4b0e-a6e0-a7f2f69ee766</guid>
             <pubDate>Thu, 19 May 2016 14:30:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8bc599e-dbbf-45e6-8eb1-509eff007a02.jpg">]]></description>
-            <link>https://thegrid.ai/party-safari/c6201f83-b2d1-4f34-a09b-5efe7629f84e/index.html</link>
-            <guid isPermaLink="false">c6201f83-b2d1-4f34-a09b-5efe7629f84e</guid>
-            <pubDate>Thu, 19 May 2016 14:28:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
