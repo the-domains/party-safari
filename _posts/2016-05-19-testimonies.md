@@ -4,17 +4,17 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: "Simeon has a knack for relating to everyone. As the games facilitator at my son Thomas’s birthday party he gently encouraged the children to participate in game playing and activities he had planned. He made it fun and exciting and spontaneous. When you book a party with Simeon you can trust he will take care of even the minutest of details and ensure-everyone is included and made to feel important. Simeon has a lot of energy and a beautiful nature and really knows how to bring an experience you will never forget. Fiona Grant Thomas's mum"
-datePublished: '2016-05-19T18:26:41.790Z'
-dateModified: '2016-05-19T18:26:28.594Z'
+description: ' Simeon has an amazing ability to bring people together and help them connect and have fun and get totally absorbed in the experience he has created. He did a tremendous Spy party for my son Sebastian and was meticulous with details creating a space that followed the theme which had been decided. The children were really treated to an unique experience which involved dressing up, playing games, exploring and adventuring. It was an experience that was truly memorable. I would highly recommend Simeon if you are looking for a fabulous host who will facilitate connection between people. Fiona Grant Sebastians mum'
+datePublished: '2016-05-19T18:28:18.290Z'
+dateModified: '2016-05-19T18:28:11.621Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-19-testimonies.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: testimonies/index.html
 _type: Article
 
 ---
-Simeon has a knack for relating to everyone. As the games facilitator at my son Thomas's birthday party he gently encouraged the children to participate in game playing and activities he had planned. He made it fun and exciting and spontaneous. When you book a party with Simeon you can trust he will take care of even the minutest of details and ensure-everyone is included and made to feel important. Simeon has a lot of energy and a beautiful nature and really knows how to bring an experience you will never forget. Fiona Grant Thomas's mum
+Simeon has an amazing ability to bring people together and help them connect and have fun and get totally absorbed in the experience he has created. He did a tremendous Spy party for my son Sebastian and was meticulous with details creating a space that followed the theme which had been decided. The children were really treated to an unique experience which involved dressing up, playing games, exploring and adventuring. It was an experience that was truly memorable. I would highly recommend Simeon if you are looking for a fabulous host who will facilitate connection between people. Fiona Grant Sebastians mum
