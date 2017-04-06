@@ -1,8 +1,8 @@
-name: Party Safari
+name: Breathe Safari
 favicon: null
 layout_spectrum: 0.31074
 typography_spectrum: 0.61766
-title: Kids Parties
+title: kids parties
 cta:
   domain: null
   bucket: null
@@ -27,3 +27,11 @@ color:
   saturation: 0.75
   rhythmicContrast: 0.5
 purpose: []
+content: []
+description: Party safari
+github: true
+author:
+  name: Simeon John
+  email: sim@simeonjohn.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/595f9244-04f5-4e39-b7dc-09eeebfc1f8d.png
